@@ -1,0 +1,17 @@
+{
+  "name": "시흥 구역",
+  "short_name": "시흥 구역",
+  "description": "여의도순복음시흥교회 구역장 주일 출석 보고",
+  "id": "./zone.html",
+  "start_url": "./zone.html",
+  "scope": "./zone.html",
+  "display": "standalone",
+  "background_color": "#f2f4f6",
+  "theme_color": "#c41d26",
+  "lang": "ko",
+  "icons": [
+    { "src": "icons/zone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/zone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/zone-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
